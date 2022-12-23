@@ -1,0 +1,25 @@
+:host {
+    display:block;
+    margin-top:60px;
+    margin-left:100px;
+    margin-right: 50px;
+    background-color: rgb(214, 
+    211, 211);
+}
+.img-prod{height:250px;
+width: 250px;
+border: 10px   rgb(34, 34, 36);
+margin: 30px auto;
+cursor: pointer;}
+
+.titre{size: 40px;
+color: purple;
+font-weight: bold;
+font-family:serif;
+}
+
+.title{size: 60px;
+color: purple;
+font-family:serif;
+font-weight: bold;
+text-align: center;}

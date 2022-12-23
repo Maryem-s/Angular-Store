@@ -1,0 +1,11 @@
+.title{size: 50px;
+    color:black;
+    font-weight: bold;
+text-align: left;}
+:host {
+    display:block;
+    margin-top:0px;
+    margin-left:200px;
+    margin-right:200px;
+    background-color: rgb(238, 195, 223);
+}
